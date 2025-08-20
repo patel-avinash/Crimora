@@ -212,7 +212,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name**
 - GitHub: [@patel-avinash](https://github.com/patel-avinash)
-- LinkedIn: [Avinash J Patel](https://linkedin.com/in/Avinash J Patel)
+- LinkedIn: [Avinash J Patel]((https://www.linkedin.com/in/avinash-j-patel-0174a129b/))
 
 ## 🙏 Acknowledgments
 
