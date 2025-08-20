@@ -211,8 +211,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- GitHub: [@patel-avinash](https://github.com/patel-avinash)
+- LinkedIn: [Avinash J Patel](https://linkedin.com/in/Avinash J Patel)
 
 ## 🙏 Acknowledgments
 
